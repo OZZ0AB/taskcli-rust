@@ -27,7 +27,7 @@ Manage your daily tasks directly from the terminal.
 
 ###  Installation
 
-Clone the repo (if you have it on GitHub) or create it locally:
+Clone the repo  or create it locally:
 
 ### bash
 
